@@ -1,45 +1,51 @@
+# Publications & Presentations
+
+## Research Publications
+
+### AfriHG: News Headline Generation for African Languages
+
+**Toyib Ogunremi, Serah Sessi Akojenu, Anthony Soronnadi, Olubayo Adekanmbi, David Ifeoluwa Adelani**
+
+*5th Workshop on African Natural Language Processing, 2024*
+
+[Read Paper](https://arxiv.org/pdf/2412.20223)
+
 ---
-hide:
-  - toc
+
+### Geo-visualisation of Citizens Dissatisfaction Over Scarcity of Social Services: A Case Study of Cash and Fuel Scarcity In Nigeria
+
+**Serah Akojenu, Adekanmbi O. & Soronnadi A.**
+
+*Deep Learning Indaba Conference Proceedings, 2023*
+
+[Read Paper](https://openreview.net/forum?id=Us2f5k24xL)
+
 ---
-<!--
-CHECKLIST FOR THIS PAGE:
-- [ ] Replace each [YOUR ...] placeholder with your actual information
-- [ ] Add or remove entries in each section as needed
-- [ ] Remove sections that are not applicable (e.g., Theses, Conference Presentations)
-- [ ] Add DOI or URL links where available
--->
 
-# Publications
+### Determination of The Geoid Using Satellite Altimetry
 
-## Journal Articles
+**Serah Akojenu**
 
-1. [YOUR NAME], [CO-AUTHOR NAME], and [CO-AUTHOR NAME] ([YEAR]). "[Your paper title here]." *[Journal Name]*, [Volume] [Issue], [Page range]. [DOI link or URL]
-
-2. [YOUR NAME] and [CO-AUTHOR NAME] ([YEAR]). "[Your paper title here]." *[Journal Name]*, [Volume] [Issue], [Page range]. [DOI link or URL]
-
-3. [YOUR NAME] ([YEAR]). "[Your paper title here]." *[Journal Name]*, [Volume] [Issue], [Page range]. [DOI link or URL]
+*Young Surveyors Network Lagos State Chapter, 2021*
 
 ---
 
 ## Conference Papers & Presentations
 
-1. [YOUR NAME] and [CO-AUTHOR NAME] ([YEAR]). "[Your presentation title]." *[Conference Name]*, [City, Country].
+### Predicting Settlement Evolution for Proactive Health Intervention Planning with Machine Learning
 
-2. [YOUR NAME] ([YEAR]). "[Your presentation title]." *[Conference Name]*, [City, Country].
-
----
-
-## Theses
-
-- [YOUR NAME] ([YEAR]). *[Your thesis title]*. [Degree type] thesis. [University Name].
+*Women in Machine Learning (WiML) Workshop, Neural Information Processing Systems (NeurIPS) — Canada, December 2024*
 
 ---
 
-## Reports & Technical Documents
+### Cholera Prediction Applying Environmental Variables Using GIS and Remote Sensing
 
-- [YOUR NAME] et al. ([YEAR]). *[Report title]*. [Organization Name]. [URL or DOI if available]
+*GeoAI Workshop at Deep Learning Indaba — Dakar, Senegal, September 2024*
 
 ---
 
-*For citation counts and a full list, see [Google Scholar](https://scholar.google.com) or [ResearchGate](https://www.researchgate.net).*
+### GeoLLM: Comparative Study and Enhancement of Large Language Models for Geospatial Knowledge Using Retrieval Augmented Generation (RAG)
+
+*Deep Learning Indaba — Dakar, Senegal, September 2024*
+
+---
