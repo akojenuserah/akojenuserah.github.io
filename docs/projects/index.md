@@ -20,14 +20,13 @@ A selection of my geospatial projects. Click any card to see the full write-up.
 <div class="project-card" markdown>
 ![](../assets/images/cli.png)
 
-**[Sample Project](Climate Vulnerability Map.md)**
+**[Sample Project](Climate-Vulnerability-Map.md)**
 
-[YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
-and what you found or built.]
+[Developed a Climate Vulnerability Index (CVI) for Nigeria by combining machine learning-based flood susceptibility mapping with drought risk analysis using geospatial datasets and multi-criteria decision analysis.]
 
-`[TOOL 1]` `[TOOL 2]` `[TOOL 3]`
+`[Goggle Earth Engine]` `[Python]` `[QGIS]`
 
-[View Project →](Climate Vulnerability Map.md){ .md-button }
+[View Project →](Climate-Vulnerability-Map.md){ .md-button }
 </div>
 
 <div class="project-card" markdown>
